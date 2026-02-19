@@ -574,7 +574,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3336813758153743478, guid: ed673d57c6e4dc745859e0a961c75b35, type: 3}
       propertyPath: m_Name
-      value: Antar
+      value: Beil
       objectReference: {fileID: 0}
     - target: {fileID: 7784027430697236687, guid: ed673d57c6e4dc745859e0a961c75b35, type: 3}
       propertyPath: m_LocalPosition.x
