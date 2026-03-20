@@ -8,38 +8,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1852288402717858192, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0.518
-      objectReference: {fileID: 0}
-    - target: {fileID: 1852288402717858192, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -0.656
-      objectReference: {fileID: 0}
-    - target: {fileID: 1922311539601803692, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.7
-      objectReference: {fileID: 0}
-    - target: {fileID: 1922311539601803692, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.7
-      objectReference: {fileID: 0}
-    - target: {fileID: 1922311539601803692, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.7
-      objectReference: {fileID: 0}
     - target: {fileID: 2356283258501673277, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
       propertyPath: m_text
-      value: 12
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 2442592964964807254, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
       propertyPath: m_text
-      value: 15
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 2909975164245580253, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: f7f1819c10c1ff74391bf7d5a799d49e, type: 3}
+      objectReference: {fileID: 21300000, guid: 1b1581f906613b34385075e9516645d8, type: 3}
     - target: {fileID: 3104813347909684737, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -80,17 +60,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6661231788273224786, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: -0.575
-      objectReference: {fileID: 0}
-    - target: {fileID: 6661231788273224786, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0.638
-      objectReference: {fileID: 0}
     - target: {fileID: 7592601205800790712, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
       propertyPath: m_Name
-      value: Plant_1
+      value: CloakOfFlame
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
