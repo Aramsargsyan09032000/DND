@@ -10,16 +10,16 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2356283258501673277, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
       propertyPath: m_text
-      value: 18
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 2442592964964807254, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
       propertyPath: m_text
-      value: 33
+      value: 28
       objectReference: {fileID: 0}
     - target: {fileID: 2909975164245580253, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 1530c6109b218204ebbeb98874e25eff, type: 3}
+      objectReference: {fileID: 21300000, guid: 591ef3ddddc3f354faecad6a325124e6, type: 3}
     - target: {fileID: 3104813347909684737, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -62,7 +62,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7592601205800790712, guid: a29e692a17ffb884a83e262237ddb0fb, type: 3}
       propertyPath: m_Name
-      value: AnimatedArmor
+      value: AnimatedArmor_Bow
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
